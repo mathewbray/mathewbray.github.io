@@ -161,13 +161,13 @@ These are items you may need to restock that may be deployed/installed locally o
 *   [Business Cards](https://www.vistaprint.com/business-cards) – Add a QR code.
 *   [Laptop Tripod Stand](https://www.amazon.com/s?k=laptop+tripod+stand) <span style="font-size: 1rem;">– The tall type. – How convenient!!</span>
 
-#### Telecom
+## Telecom
 
 *   _(Telecom)_ [Butt Set](https://www.amazon.com/s?k=butt+set) – At least get one of the small $15 ones. – They work well!
 *   _(Telecom)_ [Wire Wrap Tool](https://www.amazon.com/s?k=22+24+wire+wrap+tool) – 22-24 gauge – Jonard is best, but cheaper ones are ok!
 *   _(Telecom)_ [Can Wrench Tool](https://www.amazon.com/s?k=star+key+wrench+tool)
 
-#### Wireless
+## Wireless
 
 *   _(Wireless)_ WiFi Access Point – [The Ubiquiti PicoStation is popular.](https://www.amazon.com/s?k=ubiquity+picostation)
 *   _(Wireless)_ Powerful External WiFi Adapter – [Higher the mW the better!](https://www.amazon.com/s?k=alfa+long+range) – Get a variety of antennas (unidirectional and directional).
