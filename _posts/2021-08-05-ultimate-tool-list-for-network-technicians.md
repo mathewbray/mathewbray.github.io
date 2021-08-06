@@ -5,8 +5,9 @@ last_modified_at: 2021-08-06T00:00:00-00:00
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 tags: 
-  - code
-  - syntax highlighting
+  - network engineer
+  - list
+  - tools
 toc: true
 ---
 
